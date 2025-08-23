@@ -1,0 +1,8 @@
+package arrays;
+
+public class FindingPrimeNumbers {
+	public static void main(String[] args) {
+		
+	}
+
+}
